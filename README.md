@@ -1,1 +1,1 @@
-# Traduzindo_textos_com_python
+# Traduzindo textos com Python
